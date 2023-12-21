@@ -22,3 +22,5 @@ Simon Game is classic memory game where players must remember and repeat a seque
 ## Acknowledgments
 
 - Inspired by full stack course by Angela in Udemy
+
+**<p align='center'>You can find the website live <a href="https://burlaabhiraj.github.io/Simon-game/">here</a></p>**
