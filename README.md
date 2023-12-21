@@ -18,3 +18,7 @@ Simon Game is classic memory game where players must remember and repeat a seque
 
 ## dependencies
 - JQuery
+
+## Acknowledgments
+
+- Inspired by full stack course by Angela in Udemy
